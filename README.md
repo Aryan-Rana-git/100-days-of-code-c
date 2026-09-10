@@ -122,3 +122,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q39.c)](./Day-20/q39.c)
 ### Q40: Write a program to find the 1’s complement of a binary number and print it.
 * **Solution:** [View Program (q40.c)](./Day-20/q40.c)
+
+## Day 21
+### Q41: Write a program to swap the first and last digit of a number.
+* **Solution:** [View Program (q41.c)](./Day-21/q41.c)
