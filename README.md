@@ -126,3 +126,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 21
 ### Q41: Write a program to swap the first and last digit of a number.
 * **Solution:** [View Program (q41.c)](./Day-21/q41.c)
+### Q42: Write a program to check if a number is a perfect number.
+* **Solution:** [View Program (q42.c)](./Day-21/q42.c)
