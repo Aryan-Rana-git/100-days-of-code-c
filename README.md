@@ -132,3 +132,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 22
 ### Q43: Write a program to check if a number is a strong number.
 * **Solution:** [View Program (q43.c)](./Day-22/q43.c)
+### Q44: Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
+* **Solution:** [View Program (q44.c)](./Day-22/q44.c)
