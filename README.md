@@ -154,3 +154,10 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ****
 *****
 * **Solution:** [View Program (q47.c)](./Day-24/q47.c)
+### Q48: Write a program to print the following pattern:
+1
+12
+123
+1234
+12345
+* **Solution:** [View Program (q48.c)](./Day-24/q48.c)
