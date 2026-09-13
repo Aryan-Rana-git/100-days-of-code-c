@@ -145,3 +145,12 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 *****
 *****
 * **Solution:** [View Program (q46.c)](./Day-23/q46.c)
+
+## Day 24
+### Q47: Write a program to print the following pattern:
+*
+**
+***
+****
+*****
+* **Solution:** [View Program (q47.c)](./Day-24/q47.c)
