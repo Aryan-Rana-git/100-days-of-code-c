@@ -161,3 +161,12 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 1234
 12345
 * **Solution:** [View Program (q48.c)](./Day-24/q48.c)
+
+## Day 25
+### Q49: Write a program to print the following pattern:
+5
+45
+345
+2345
+12345
+* **Solution:** [View Program (q49.c)](./Day-25/q49.c)
