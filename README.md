@@ -139,54 +139,70 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ### Q45: Write a program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms.
 * **Solution:** [View Program (q45.c)](./Day-23/q45.c)
 ### Q46: Write a program to print the following pattern:
+```text
 *****
 *****
 *****
 *****
 *****
+```
 * **Solution:** [View Program (q46.c)](./Day-23/q46.c)
 
 ## Day 24
 ### Q47: Write a program to print the following pattern:
+```text
 *
 **
 ***
 ****
 *****
+```
 * **Solution:** [View Program (q47.c)](./Day-24/q47.c)
+
 ### Q48: Write a program to print the following pattern:
+```text
 1
 12
 123
 1234
 12345
+```
 * **Solution:** [View Program (q48.c)](./Day-24/q48.c)
 
 ## Day 25
 ### Q49: Write a program to print the following pattern:
+```text
 5
 45
 345
 2345
 12345
+```
 * **Solution:** [View Program (q49.c)](./Day-25/q49.c)
+
 ### Q50: Write a program to print the following pattern:
+```text
 *****
  ****
   ***
    **
     *
+```
 * **Solution:** [View Program (q50.c)](./Day-25/q50.c)
 
 ## Day 26
 ### Q51: Write a program to print the following pattern:
+```text
     5
    45
   345
  2345
 12345
+```
 * **Solution:** [View Program (q51.c)](./Day-26/q51.c)
+
 ### Q52: Write a program to print the following pattern:
+```text
 *
 
 *
@@ -204,10 +220,12 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 *
 
 *
+```
 * **Solution:** [View Program (q52.c)](./Day-26/q52.c)
 
 ## Day 27
 ### Q53: Write a program to print the following pattern:
+```text
 *
 ***
 *****
@@ -217,4 +235,16 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 *****
 ***
 *
+```
 * **Solution:** [View Program (q53.c)](./Day-27/q53.c)
+### Q54: Write a program to print the following pattern:
+```text
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+```
+* **Solution:** [View Program (q54.c)](./Day-27/q54.c)
