@@ -248,3 +248,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
    *
 ```
 * **Solution:** [View Program (q54.c)](./Day-27/q54.c)
+
+## Day 28
+### Q55: Write a program to print all the prime numbers from 1 to n.
+* **Solution:** [View Program (q55.c)](./Day-28/q55.c)
