@@ -252,3 +252,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 28
 ### Q55: Write a program to print all the prime numbers from 1 to n.
 * **Solution:** [View Program (q55.c)](./Day-28/q55.c)
+### Q56: Read and print elements of a one-dimensional array.
+* **Solution:** [View Program (q56.c)](./Day-28/q56.c)
