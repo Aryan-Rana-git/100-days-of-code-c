@@ -254,3 +254,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q55.c)](./Day-28/q55.c)
 ### Q56: Read and print elements of a one-dimensional array.
 * **Solution:** [View Program (q56.c)](./Day-28/q56.c)
+
+## Day 29
+### Q57: Find the sum of array elements.
+* **Solution:** [View Program (q57.c)](./Day-29/q57.c)
