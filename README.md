@@ -260,3 +260,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q57.c)](./Day-29/q57.c)
 ### Q58: Find the maximum and minimum element in an array.
 * **Solution:** [View Program (q58.c)](./Day-29/q58.c)
+
+## Day 30
+### Q59: Count even and odd numbers in an array.
+* **Solution:** [View Program (q59.c)](./Day-30/q59.c)
