@@ -264,3 +264,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 30
 ### Q59: Count even and odd numbers in an array.
 * **Solution:** [View Program (q59.c)](./Day-30/q59.c)
+### Q60: Count positive, negative, and zero elements in an array.
+* **Solution:** [View Program (q60.c)](./Day-30/q60.c)
