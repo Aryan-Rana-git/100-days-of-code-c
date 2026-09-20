@@ -270,3 +270,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 31
 ### Q61: Search for an element in an array using linear search.
 * **Solution:** [View Program (q61.c)](./Day-31/q61.c)
+### Q62: Reverse an array without taking extra space.
+* **Solution:** [View Program (q62.c)](./Day-31/q62.c)
