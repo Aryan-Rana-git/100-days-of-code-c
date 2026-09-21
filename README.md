@@ -272,3 +272,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q61.c)](./Day-31/q61.c)
 ### Q62: Reverse an array without taking extra space.
 * **Solution:** [View Program (q62.c)](./Day-31/q62.c)
+
+## Day 32
+### Q63: Merge two arrays.
+* **Solution:** [View Program (q63.c)](./Day-32/q63.c)
