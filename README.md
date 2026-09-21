@@ -276,3 +276,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 32
 ### Q63: Merge two arrays.
 * **Solution:** [View Program (q63.c)](./Day-32/q63.c)
+### Q64: Find the digit that occurs the most times in an integer number.
+* **Solution:** [View Program (q64.c)](./Day-32/q64.c)
