@@ -282,3 +282,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 33
 ### Q65: Search in a sorted array using binary search.
 * **Solution:** [View Program (q65.c)](./Day-33/q65.c)
+### Q66: Insert an element in a sorted array at the appropriate position.
+* **Solution:** [View Program (q66.c)](./Day-33/q66.c)
