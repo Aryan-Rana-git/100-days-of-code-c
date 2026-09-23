@@ -288,3 +288,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 34
 ### Q67: Insert an element in an array at a given position.
 * **Solution:** [View Program (q67.c)](./Day-34/q67.c)
+### Q68: Delete an element from an array.
+* **Solution:** [View Program (q68.c)](./Day-34/q68.c)
