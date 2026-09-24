@@ -290,3 +290,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q67.c)](./Day-34/q67.c)
 ### Q68: Delete an element from an array.
 * **Solution:** [View Program (q68.c)](./Day-34/q68.c)
+
+## Day 35
+### Q69: Find the second largest element in an array.
+* **Solution:** [View Program (q69.c)](./Day-35/q69.c)
