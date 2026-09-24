@@ -294,3 +294,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 35
 ### Q69: Find the second largest element in an array.
 * **Solution:** [View Program (q69.c)](./Day-35/q69.c)
+### Q70: Rotate an array to the right by k positions.
+* **Solution:** [View Program (q70.c)](./Day-35/q70.c)
