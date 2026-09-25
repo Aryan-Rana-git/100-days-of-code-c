@@ -300,3 +300,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 36
 ### Q71: Read and print a matrix.
 * **Solution:** [View Program (q71.c)](./Day-36/q71.c)
+### Q72: Find the sum of all elements in a matrix.
+* **Solution:** [View Program (q72.c)](./Day-36/q72.c)
