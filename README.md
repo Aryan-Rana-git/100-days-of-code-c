@@ -296,3 +296,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q69.c)](./Day-35/q69.c)
 ### Q70: Rotate an array to the right by k positions.
 * **Solution:** [View Program (q70.c)](./Day-35/q70.c)
+
+## Day 36
+### Q71: Read and print a matrix.
+* **Solution:** [View Program (q71.c)](./Day-36/q71.c)
