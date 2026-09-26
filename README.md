@@ -302,3 +302,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q71.c)](./Day-36/q71.c)
 ### Q72: Find the sum of all elements in a matrix.
 * **Solution:** [View Program (q72.c)](./Day-36/q72.c)
+
+## Day 37
+### Q73: Find the sum of each row of a matrix and store it in an array.
+* **Solution:** [View Program (q73.c)](./Day-37/q73.c)
