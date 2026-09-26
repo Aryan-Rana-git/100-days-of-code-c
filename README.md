@@ -306,3 +306,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 37
 ### Q73: Find the sum of each row of a matrix and store it in an array.
 * **Solution:** [View Program (q73.c)](./Day-37/q73.c)
+### Q74: Find the transpose of a matrix.
+* **Solution:** [View Program (q74.c)](./Day-37/q74.c)
