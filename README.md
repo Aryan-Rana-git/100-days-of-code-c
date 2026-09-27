@@ -308,3 +308,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q73.c)](./Day-37/q73.c)
 ### Q74: Find the transpose of a matrix.
 * **Solution:** [View Program (q74.c)](./Day-37/q74.c)
+
+## Day 38
+### Q75: Add two matrices.
+* **Solution:** [View Program (q75.c)](./Day-38/q75.c)
