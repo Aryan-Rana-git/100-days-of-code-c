@@ -312,3 +312,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 38
 ### Q75: Add two matrices.
 * **Solution:** [View Program (q75.c)](./Day-38/q75.c)
+### Q76: Check if a matrix is symmetric.
+* **Solution:** [View Program (q76.c)](./Day-38/q76.c)
