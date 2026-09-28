@@ -314,3 +314,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q75.c)](./Day-38/q75.c)
 ### Q76: Check if a matrix is symmetric.
 * **Solution:** [View Program (q76.c)](./Day-38/q76.c)
+
+## Day 39
+### Q77: Check if the elements on the diagonal of a matrix are distinct.
+* **Solution:** [View Program (q77.c)](./Day-39/q77.c)
