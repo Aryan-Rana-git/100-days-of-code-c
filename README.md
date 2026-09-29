@@ -324,3 +324,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 40
 ### Q79: Perform diagonal traversal of a matrix.
 * **Solution:** [View Program (q79.c)](./Day-40/q79.c)
+### Q80: Multiply two matrices.
+* **Solution:** [View Program (q80.c)](./Day-40/q80.c)
