@@ -320,3 +320,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q77.c)](./Day-39/q77.c)
 ### Q78: Find the sum of main diagonal elements for a square matrix.
 * **Solution:** [View Program (q78.c)](./Day-39/q78.c)
+
+## Day 40
+### Q79: Perform diagonal traversal of a matrix.
+* **Solution:** [View Program (q79.c)](./Day-40/q79.c)
