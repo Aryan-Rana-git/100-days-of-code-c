@@ -326,3 +326,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q79.c)](./Day-40/q79.c)
 ### Q80: Multiply two matrices.
 * **Solution:** [View Program (q80.c)](./Day-40/q80.c)
+
+## Day 41
+### Q81: Count characters in a string without using built-in length functions.
+* **Solution:** [View Program (q81.c)](./Day-41/q81.c)
