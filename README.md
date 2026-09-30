@@ -330,3 +330,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 41
 ### Q81: Count characters in a string without using built-in length functions.
 * **Solution:** [View Program (q81.c)](./Day-41/q81.c)
+### Q82: Print each character of a string on a new line.
+* **Solution:** [View Program (q82.c)](./Day-41/q82.c)
