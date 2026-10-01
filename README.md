@@ -336,3 +336,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 42
 ### Q83: Count vowels and consonants in a string.
 * **Solution:** [View Program (q83.c)](./Day-42/q83.c)
+### Q84: Convert a lowercase string to uppercase without using built-in functions.
+* **Solution:** [View Program (q84.c)](./Day-42/q84.c)
