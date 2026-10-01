@@ -332,3 +332,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q81.c)](./Day-41/q81.c)
 ### Q82: Print each character of a string on a new line.
 * **Solution:** [View Program (q82.c)](./Day-41/q82.c)
+
+## Day 42
+### Q83: Count vowels and consonants in a string.
+* **Solution:** [View Program (q83.c)](./Day-42/q83.c)
