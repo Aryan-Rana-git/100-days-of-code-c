@@ -348,3 +348,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 44
 ### Q87: Count spaces, digits, and special characters in a string.
 * **Solution:** [View Program (q87.c)](./Day-44/q87.c)
+### Q88: Replace spaces with hyphens in a string.
+* **Solution:** [View Program (q88.c)](./Day-44/q88.c)
