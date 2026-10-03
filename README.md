@@ -344,3 +344,7 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 * **Solution:** [View Program (q85.c)](./Day-43/q85.c)
 ### Q86: Check if a string is a palindrome.
 * **Solution:** [View Program (q86.c)](./Day-43/q86.c)
+
+## Day 44
+### Q87: Count spaces, digits, and special characters in a string.
+* **Solution:** [View Program (q87.c)](./Day-44/q87.c)
