@@ -354,3 +354,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 45
 ### Q89: Count frequency of a given character in a string.
 * **Solution:** [View Program (q89.c)](./Day-45/q89.c)
+### Q90: Toggle case of each character in a string.
+* **Solution:** [View Program (q90.c)](./Day-45/q90.c)
